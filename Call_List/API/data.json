@@ -1,11 +1,18 @@
 {
   "students": [
     {
-      "name": "Jardel Osorio Duarte",
-      "ccr": "GEX103",
-      "curse": "CC",
+      "name": "TEST",
+      "ccr": "ERR404",
+      "curse": "Mestrado em Cervejaria e Destilados",
       "presence": true,
-      "id": 1
+      "id": 2
+    },
+    {
+      "name": "OTROTEST",
+      "ccr": "SSM202",
+      "curse": "Estudos Vikings",
+      "presence": true,
+      "id": 3
     }
   ]
 }
